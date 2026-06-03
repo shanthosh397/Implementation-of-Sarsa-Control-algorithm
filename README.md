@@ -1,4 +1,4 @@
-# Implementation of SARSA Control Algorithm using FrozenLake Environment
+# Ex-8: Implementation of SARSA Control Algorithm using FrozenLake Environment
 
 ## Aim
 
